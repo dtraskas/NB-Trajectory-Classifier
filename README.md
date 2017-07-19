@@ -1,3 +1,3 @@
-# naive-bayes-classifier
+# Naive Bayes Classifier
 
-Followed article: http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+Classifier predicts the behaviour of vehicles on a highway. It uses coordinate data and determines if vehicles keep lane, change lane to the left or change lane to the right.
